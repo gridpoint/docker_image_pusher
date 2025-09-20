@@ -1,1 +1,1 @@
-cybertecpostgresql/pg_timetable:v5.13.0
+cybertecpostgresql/pg_timetable:5.13.0
