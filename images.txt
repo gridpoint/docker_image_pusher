@@ -1,3 +1,5 @@
 # cybertecpostgresql/pg_timetable:5.13.0
 # postgrest/postgrest:v8.0.0
-m1k1o/neko:firefox
+# m1k1o/neko:firefox
+mysql:8.0.43
+mysql:5.7.44
