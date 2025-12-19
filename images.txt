@@ -4,4 +4,6 @@
 # mysql:8.0.43
 # mysql:5.7.44
 
-debian:bookworm-slim
+# debian:bookworm-slim
+
+postgres:13.23
