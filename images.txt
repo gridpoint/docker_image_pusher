@@ -3,7 +3,7 @@
 # m1k1o/neko:firefox
 # mysql:8.0.43
 # mysql:5.7.44
-
 # debian:bookworm-slim
+# postgres:13.23
 
-postgres:13.23
+polardb/polardb_pg_local_instance:15
