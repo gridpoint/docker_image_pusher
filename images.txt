@@ -6,4 +6,5 @@
 # debian:bookworm-slim
 # postgres:13.23
 
-polardb/polardb_pg_local_instance:15
+# polardb/polardb_pg_local_instance:15
+songquanpeng/one-api
