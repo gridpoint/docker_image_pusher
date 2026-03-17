@@ -40,7 +40,6 @@ jobs:
         # remove-android: 'true'
         # remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
-        node-version: '26''
 
     - name: Restart docker
       run: sudo service docker restart
