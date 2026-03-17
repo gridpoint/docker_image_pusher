@@ -7,4 +7,4 @@
 # postgres:13.23
 
 # polardb/polardb_pg_local_instance:15
-songquanpeng/one-api:v0.6.10
+justsong/one-api
