@@ -8,5 +8,5 @@
 
 # polardb/polardb_pg_local_instance:15
 # justsong/one-api
-#nginx:1.30.2
-OpenRestyOpenResty 1.31.1.1
+# nginx:1.30.2
+OpenResty/OpenResty 1.31.1.1
